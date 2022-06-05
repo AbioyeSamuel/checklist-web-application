@@ -1,0 +1,36 @@
+body {
+  background-image: url("/image/Tt.jpg");
+  background-size: cover;
+}
+.welcome {
+  margin: 4% 5% 0;
+  color: #fff;
+  font-size: 2rem;
+  font-family: Yellowtail;
+}
+.welcome:hover{
+  color: #034f84;
+}
+.heading {
+  font-size: 5rem;
+  font-weight: bold;
+  color: #034f84;
+}
+.body-text {
+  color: #034f84 ;
+}
+.body-text:hover{
+  color: white;
+}
+.txt {
+  margin: 5% 40% 5% 20%;
+  text-align: left;
+}
+.btn {
+  margin:2% 0 0;
+}
+footer{
+  color: #034f84;
+  margin: 0 0 5%;
+  text-align: center;
+}
